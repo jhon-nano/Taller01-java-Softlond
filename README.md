@@ -21,7 +21,7 @@
 14. **Escribe un programa que solicite al usuario un número entero positivo y verifique si es un número perfecto. Un número perfecto es aquel cuya suma de sus divisores propios es igual al número.**(`src\Ejercicio14.java`)
 15. **Crea un programa que pida al usuario un número entero y determine si es un número capicúa.**(`src\Ejercicio15.java`)
 16. **Realiza un programa que calcule e imprima la serie de Fibonacci hasta un número dado ingresado por el usuario.**(`src\Ejercicio16.java`)
-17. **Pide al usuario dos números enteros y muestra todos los números primos que se encuentran en ese rango.**(`src\Ejercicio17.java`)
+17. **Pide al usuario dos números enteros y  muestra todos los números primos que se encuentran en ese rango.**(`src\Ejercicio17.java`)
 18. **Crea un programa que genere una contraseña aleatoria de 8 caracteres que contenga letras mayúsculas, letras minúsculas y dígitos.**(`src\Ejercicio18.java`)
 19. **Escribe un programa que solicite al usuario su nombre y luego lo imprima en mayúsculas y minúsculas.**(`src\Ejercicio19.java`)
 20. **Realiza un programa que solicite al usuario una cadena y luego invierta su orden.**(`src\Ejercicio20.java`)
